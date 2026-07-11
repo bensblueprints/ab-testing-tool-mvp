@@ -1,0 +1,16 @@
+services:
+  splitpoint:
+    build: .
+    container_name: splitpoint
+    restart: unless-stopped
+    ports:
+      - "5353:5353"
+    environment:
+      - PORT=5353
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/splitpoint.db
+    volumes:
+      - splitpoint-data:/app/data
+
+volumes:
+  splitpoint-data:
