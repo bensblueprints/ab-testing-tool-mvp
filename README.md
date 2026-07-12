@@ -67,7 +67,7 @@ Splitpoint runs a two-proportion z-test (pooled) against control and reports the
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Source is MIT, forever. Prefer a packaged Windows installer with updates? **[Get Splitpoint on Whop →](https://whop.com/onetime-suite)**
+Source is MIT, forever. Prefer a packaged Windows installer with updates? **[Get Splitpoint on Whop →](https://whop.com/benjisaiempire/splitpoint)**
 
 ## Tech stack
 
