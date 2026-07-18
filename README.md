@@ -1,5 +1,9 @@
 # 🧪 Splitpoint — A/B testing & feature flags you own forever
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Self-hosted A/B testing: define experiments and traffic splits, assign visitors with a <3KB JS SDK, track conversion goals, and read results with a proper two-proportion z-test. Feature flags with % rollout ride the same infrastructure.
